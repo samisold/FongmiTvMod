@@ -1,0 +1,25 @@
+{
+    "urls": [{
+            "name": "肥猫",
+            "url": "https://gitee.com/samisold/TvboxJarMod/raw/main/conf/feimao.json"
+        }, {
+            "name": "饭太硬",
+            "url": "https://gitee.com/samisold/TvboxJarMod/raw/main/conf/fan.json"
+        }, {
+            "name": "小米",
+            "url": "http://xhww.fun/小米/DEMO.json"
+        }, {
+            "name": "屌炸天",
+            "url": "https://jihulab.com/okcaptain/kko/-/raw/main/ok.txt"
+        }, {
+            "name": "讴歌",
+            "url": "http://tv.nxog.top/m/"
+        }, {
+            "name": "PG",
+            "url": "https://mirror.ghproxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/0825.json"
+        }, {
+            "name": "采妮诗",
+            "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/XYQTVBox.json"
+        }
+    ]
+}
